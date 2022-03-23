@@ -14,7 +14,7 @@ public class Main {
 		return employeeMap;
 	}
 
-	public void setEmployeeMap(Map<String, Double> employeeMap) {
+	public void setEmployeeMap (Map<String, Double> employeeMap) throws Exception {
 		this.employeeMap = employeeMap;
 	}
 
